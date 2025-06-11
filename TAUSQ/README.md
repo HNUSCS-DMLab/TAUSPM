@@ -1,3 +1,3 @@
-This is a algorithm named TAUSQ-PG.
-There two version.
+This is a algorithm named TAUSQ-PG.//
+There two versions.//
 The ver.1 has a smaller number of candidate patterns, while the ver.2 performs better in terms of memory usage.
